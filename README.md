@@ -32,6 +32,6 @@ Able to quickly learn new technologies, solve complex problems, and work effecti
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,express,github,html,java,js,mysql,nodejs,postman,react,vscode,sequelize&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,express,github,html,java,js,mysql,nodejs,postman,react,vscode,sequelize,postgresql,vercel,supabase&perline=14" />
   </a>
 </p>
